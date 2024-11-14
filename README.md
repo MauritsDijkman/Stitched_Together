@@ -3,7 +3,7 @@
 This repository contains all the content of the game 'Stitched Together', a horror-themed point-and-click puzzle game created during studies.
 
 ## Requirements
-- The game must be run in Processing 3, preferably version 3.5.4. [Download here](https://processing.org/download).
+- The game must be run in Processing 3, preferably version 3.5.4. [Download here](https://processing.org/releases).
 - Required libraries:
   - **Video Library for Processing 3 (v2.0)** - from The Processing Foundation
   - **Minim (v2.2.2)** - from Damien Di Fede and Anderson Mills
